@@ -1,8 +1,0 @@
-**node_modules
-package-lock.json
-main.js
-main.js.LICENSE.txt
-__pycache__/
-migrations/
-.vscode/
-db.sqlite3
